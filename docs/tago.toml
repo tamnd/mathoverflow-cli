@@ -1,0 +1,10 @@
+title       = "mo"
+baseURL     = "https://mathoverflow-cli.tamnd.com/"
+description = "Browse MathOverflow research questions"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/mathoverflow-cli"
